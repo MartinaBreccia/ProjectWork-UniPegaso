@@ -35,7 +35,7 @@ Il database è progettato per gestire:
 
 ## Note
 - Questo repository include esclusivamente i file tecnici (diagramma ER e script SQL). L'elaborato del progetto è stato fornito separatamente al professore per la valutazione.
-- Per eventuali domande o chiarimenti, fare riferimento al contatto dello studente.
+- Per eventuali domande o chiarimenti, fare riferimento al contatto della studentessa.
 
 ## Contatti
 **Studente**: Martina Breccia  
