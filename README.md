@@ -1,4 +1,4 @@
-# Digitalizzazione dei Servizi Sanitari: Modellazione ER per la Gestione del Processo di Visita Medica
+# Digitalizzazione dei servizi sanitari: gestione del processo di visita medica
 
 ## Descrizione del Progetto
 Questo repository contiene i file relativi al progetto "Digitalizzazione dei Servizi Sanitari: Modellazione ER per la Gestione del Processo di Visita Medica". Il progetto è stato sviluppato come parte del lavoro di tesi per il conseguimento della laurea triennale e si concentra sulla progettazione e implementazione di un sistema per la gestione digitale dei processi sanitari, con particolare riferimento alle visite mediche.
